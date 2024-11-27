@@ -1,0 +1,1 @@
+Some useful bits and pieces for modelling solar irradiance at the surface of the Earth
